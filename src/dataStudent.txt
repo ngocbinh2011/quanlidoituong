@@ -1,0 +1,36 @@
+-----------------
+ID card: 327817312
+full name: tran van a
+address: 389213
+email: 39238
+phone Number: 312903
+ID teacher: 3129803
+chuyen mon: 312093
+kinh nghiem: 391
+luong: 38291
+vi tri: 9381
+-----------------
+-----------------
+ID card: 301293
+full name: tran trung duc
+address: 312093
+email: 31293
+phone Number: 32193
+ID teacher: 321390
+chuyen mon: 132389
+kinh nghiem: 31273
+luong: 3123
+vi tri: 3123
+-----------------
+-----------------
+ID card: 23123
+full name: nguyen van c
+address: 32901
+email: 329013
+phone Number: 3182903
+ID teacher: 312903
+chuyen mon: 312983
+kinh nghiem: 312893
+luong: 39812
+vi tri: 38109
+-----------------
